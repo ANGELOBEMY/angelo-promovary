@@ -1,2 +1,5 @@
-# angelo-promovary
-Angelo Promovăry – Agenție de marketing digital și creație vizuală. Servicii de promovare, editare foto, logouri, postere și creații personalizate. România 🇷🇴 &amp; Franța 🇫🇷.
+# Angelo Promovăry
+Site oficial bilingv (română / franceză) al agenției Angelo Promovăry.
+
+## Publicare GitHub Pages
+În repository: Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save.
